@@ -1,0 +1,2 @@
+Hello world
+This is the text file pushed with git and edited.
